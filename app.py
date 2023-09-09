@@ -17,8 +17,7 @@ st.sidebar.info("About:\n"
                 "- Built-up Change\n"
                 "- Waterbody Change\n"
                 "- Soil Adjusted Change for the corresponding dataset.\n")
-st.sidebar.info("""Authors
- - [Ram Kumar](mailto:rkumar.m@uni.muenster.de)
+st.sidebar.info("""Author
  - [Mohamed Shamsudeen](mailto:shamsudeen.m@uni-muenster.de)""")
 
 
