@@ -1,0 +1,16 @@
+name: land change
+
+description: A Streamlit app to visualise land cover changes
+
+dependencies:
+  - python=3.8
+  - streamlit
+  - folium
+  - matplotlib
+  - numpy
+  - rioxarray
+  - pyproj
+  -streamlit-folium
+
+scripts:
+  start: streamlit run app.py
