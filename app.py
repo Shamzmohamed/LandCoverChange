@@ -165,7 +165,7 @@ def main():
         # Compute SAVI change
         savi_Change = Y1savi - Y2savi
         # Create a binary mask based on the threshold value
-        mask_savi = create_binary_mask(savi_Change, threshold)
+        # mask_savi = create_binary_mask(savi_Change, threshold)
         # Create a color map for the binary mask
         Csavi = create_masked_color_data(savi_Change, threshold, colors_list)
         # SAVI folium feature group
